@@ -2,9 +2,9 @@
 
 ### Java Full Stack Developer | Java | Spring Boot | Angular | MySQL
 
-🎓 Computer Engineering Graduate  
-💻 Java Full Stack Developer  
-🌱 Currently learning Spring Boot, Angular & REST APIs  
+🎓 Computer Engineering Graduate
+💻 Java Full Stack Developer
+🌱 Currently learning Spring Boot, Angular & REST APIs
 🔍 Looking for opportunities as a Java Developer / Software Developer
 
 ---
@@ -20,47 +20,60 @@ I enjoy developing practical applications and learning how frontend, backend and
 ## 🛠️ Technical Skills
 
 ### Programming
-- Java
-- Java 8
-- JavaScript
-- SQL
+
+* Java
+* Java 8
+* JavaScript
+* SQL
 
 ### Backend
-- Spring
-- Spring Boot
-- JDBC
-- Servlet
-- JSP
-- REST APIs
+
+* Spring
+* Spring Boot
+* JDBC
+* Servlet
+* JSP
+* REST APIs
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- Angular
+
+* HTML
+* CSS
+* JavaScript
+* Angular
 
 ### Database
-- MySQL
+
+* MySQL
 
 ### Tools
-- Git
-- GitHub
-- Eclipse
-- Spring Tool Suite
-- Postman
-- Maven
+
+* Git
+* GitHub
+* Eclipse
+* Spring Tool Suite
+* Postman
+* Maven
 
 ---
 
+## 🏆 Achievements & Certifications
+
+* 🏅 **TCS iON NQT – Cognitive Skills Assessment**
+* ☕ **Java Full Stack Development Course**
+* 💻 **Essential on Java**
+
+
+---
 
 ## 📚 Currently Learning
 
-- Spring Boot
-- Spring Data JPA
-- REST API Development
-- Angular
-- SQL & MySQL
-- Full Stack Development
+* Spring Boot
+* Spring Data JPA
+* REST API Development
+* Angular
+* SQL & MySQL
+* Full Stack Development
 
 ---
 
@@ -68,10 +81,10 @@ I enjoy developing practical applications and learning how frontend, backend and
 
 Looking for an entry-level opportunity as a:
 
-- Java Developer
-- Spring Boot Developer
-- Software Developer
-- Full Stack Developer
+* Java Developer
+* Spring Boot Developer
+* Software Developer
+* Full Stack Developer
 
 I am interested in working on real-world software projects and continuously improving my development skills.
 
